@@ -20,17 +20,17 @@ Este proyecto es una aplicación simple pero interactiva que muestra el clima de
 - 📱 **Interfaz Interactiva**: Diseño simple, limpio y responsive con efectos animados para mejorar la experiencia del usuario.
 
 ## 🛠️ Instalación
-🛠️Instala las dependencias: npm install
-Clona este repositorio: 
+- 🛠️Instala las dependencias: npm install
+- Clona este repositorio: 
 
 
 ## Obtén tu API Key de OpenWeatherMap 🌐
-Regístrate en OpenWeatherMap y genera una API Key. Reemplaza la API Key en el archivo app.js en la variable apiKey:
+- Regístrate en OpenWeatherMap y genera una API Key. Reemplaza la API Key en el archivo app.js en la variable apiKey:
 
-const apiKey = 'TU_API_KEY'; // Reemplaza con tu API Key
+- const apiKey = 'TU_API_KEY'; // Reemplaza con tu API Key
 
 🌟## Inicia la aplicación
-Una vez configurada la API Key, inicia el servidor con el siguiente comando:npm start
+- Una vez configurada la API Key, inicia el servidor con el siguiente comando:npm start
 
 ### 📦 Estructura del Proyecto
 📂 visor-del-clima
