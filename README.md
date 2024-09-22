@@ -2,7 +2,7 @@
 
 ¡Bienvenido al **Visor del Clima**! Este proyecto te permite obtener el clima actual de cualquier ciudad del mundo usando la API de [OpenWeatherMap](https://openweathermap.org/). 🌍
 
-Lo encuentras en Web:
+## 🌐La encuentras en Web:
 
 ## 🖼️ Capturas de Pantalla
 ![image](https://github.com/user-attachments/assets/5e8b8a0e-9807-4950-a027-462e2d380c55)
@@ -61,6 +61,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 Node.js (versión 14 o superior) 🟢
 npm (Administrador de paquetes de Node.js) 📦
 
-La aplicación estará disponible en http://localhost:4010.
+
+## 🌐La aplicación estará disponible en   http://localhost:4010.
 
 ## Desarrollado con ❤️ por Romina Aguirre.
