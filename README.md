@@ -62,6 +62,6 @@ Node.js (versión 14 o superior) 🟢
 npm (Administrador de paquetes de Node.js) 📦
 
 
-## 🌐La aplicación estará disponible en   http://localhost:4010.
+## 🌐La aplicación estará disponible en   http://localhost:3010.
 
 ## Desarrollado con ❤️ por Romina Aguirre.
