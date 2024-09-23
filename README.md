@@ -62,6 +62,4 @@ Este proyecto es una aplicación simple pero interactiva que muestra el clima de
 - npm (Administrador de paquetes de Node.js) 📦
 
 
-## 🌐La aplicación estará disponible en   http://localhost:3010.
-
 ## Desarrollado con ❤️ por Romina Aguirre.
