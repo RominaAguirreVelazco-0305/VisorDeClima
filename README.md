@@ -33,33 +33,33 @@ Este proyecto es una aplicación simple pero interactiva que muestra el clima de
 - Una vez configurada la API Key, inicia el servidor con el siguiente comando:npm start
 
 ### 📦 Estructura del Proyecto
-📂 visor-del-clima
-├── 📂 public          # Archivos estáticos (CSS, imágenes, etc.)
-├── 📂 views           # Plantillas EJS
-│   └── index.ejs      # Página principal de la aplicación
-├── app.js             # Archivo principal de la aplicación
-├── package.json       # Dependencias y scripts del proyecto
-└── README.md          # Este archivo
+- 📂 visor-del-clima
+- ├── 📂 public          # Archivos estáticos (CSS, imágenes, etc.)
+- ├── 📂 views           # Plantillas EJS
+- │   └── index.ejs      # Página principal de la aplicación
+- ├── app.js             # Archivo principal de la aplicación
+- ├── package.json       # Dependencias y scripts del proyecto
+- └── README.md          # Este archivo
 
 ## ⚙️ Tecnologías Utilizadas
-Node.js 🟢: Plataforma del servidor.
-Express 🚀: Framework web rápido y minimalista para Node.js.
-EJS 📄: Motor de plantillas para renderizar HTML dinámico.
-Axios 🌐: Librería para hacer peticiones HTTP (usada para obtener los datos del clima).
-CSS 🎨: Para los estilos y animaciones de la interfaz.
+- Node.js 🟢: Plataforma del servidor.
+- Express 🚀: Framework web rápido y minimalista para Node.js.
+- EJS 📄: Motor de plantillas para renderizar HTML dinámico.
+- Axios 🌐: Librería para hacer peticiones HTTP (usada para obtener los datos del clima).
+- CSS 🎨: Para los estilos y animaciones de la interfaz.
 
 
 ## 👩‍💻 Cómo Funciona
-El usuario ingresa el nombre de una ciudad en el campo de texto.
-La aplicación envía una solicitud a la API de OpenWeatherMap con el nombre de la ciudad ingresada.
-Si la ciudad es válida, se muestra el clima actual (temperatura, descripción y un ícono del estado del clima).
-Si la ciudad no se encuentra o hay un error en la solicitud, se muestra un mensaje de error al usuario.
+- El usuario ingresa el nombre de una ciudad en el campo de texto.
+- La aplicación envía una solicitud a la API de OpenWeatherMap con el nombre de la ciudad ingresada.
+- Si la ciudad es válida, se muestra el clima actual (temperatura, descripción y un ícono del estado del clima).
+- Si la ciudad no se encuentra o hay un error en la solicitud, se muestra un mensaje de error al usuario.
 
 ## 📚 Requisitos Previos
-Antes de comenzar, asegúrate de tener instalados los siguientes programas:
+- Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 
-Node.js (versión 14 o superior) 🟢
-npm (Administrador de paquetes de Node.js) 📦
+- Node.js (versión 14 o superior) 🟢
+- npm (Administrador de paquetes de Node.js) 📦
 
 
 ## 🌐La aplicación estará disponible en   http://localhost:3010.
